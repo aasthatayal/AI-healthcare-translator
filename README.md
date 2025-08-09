@@ -2,9 +2,9 @@
 
 A real-time, multilingual healthcare translation web application that enables seamless communication between patients and healthcare providers using AI-powered translation and speech recognition.
 
-## 🚀 Deployed Application: [https://ai-healthcare-translator.vercel.app](https://ai-healthcare-translator.vercel.app)
+## 🚀 Deployed Application: [https://ai-healthcare-translator-three.vercel.app](https://ai-healthcare-translator-three.vercel.app)
 
-![Healthcare Translation App](screenshots/dark_theme.png)
+![Healthcare Translation App](screenshots/dark-theme-screenshot.png)
 
 ## 🌟 Features
 
