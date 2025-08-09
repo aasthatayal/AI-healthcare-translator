@@ -2,7 +2,9 @@
 
 A real-time, multilingual healthcare translation web application that enables seamless communication between patients and healthcare providers using AI-powered translation and speech recognition.
 
-![Healthcare Translation App](screenshots/main-page-screenshot.png)
+## 🚀 Deployed Application: [https://ai-healthcare-translator.vercel.app](https://ai-healthcare-translator.vercel.app)
+
+![Healthcare Translation App](screenshots/dark_theme.png)
 
 ## 🌟 Features
 
@@ -26,10 +28,6 @@ A real-time, multilingual healthcare translation web application that enables se
 - **Error Handling**: Robust error management for critical healthcare scenarios
 - **Accessibility**: Screen reader support and keyboard navigation
 - **Offline Capabilities**: Basic functionality works without internet
-
-## 🚀 Live Demo
-
-**Deployed Application**: [https://ai-healthcare-translator.vercel.app](https://ai-healthcare-translator.vercel.app)
 
 ## 🛠️ Technology Stack
 
@@ -175,7 +173,7 @@ this.speechLangMap = {
 ### API Configuration
 ```javascript
 // Update API endpoint if needed
-const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent`;
+const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent`;
 ```
 
 ### Styling Customization
@@ -249,10 +247,6 @@ const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:
 - Open GitHub issues for new features
 - Provide detailed use cases
 - Consider healthcare compliance requirements
-
-## 📄 License
-
-MIT License - see [LICENSE](LICENSE) file for details
 
 ## 🙏 Acknowledgments
 
