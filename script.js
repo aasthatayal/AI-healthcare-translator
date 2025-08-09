@@ -224,7 +224,7 @@ class HealthcareTranslator {
             return this.getMockTranslation(text, targetLang);
         }
         
-        const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=${API_KEY}`;
+        const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent?key=${API_KEY}`;
         
         const prompt = `You are a professional medical translator. Translate the following medical text from ${sourceLang} to ${targetLang}. 
         Maintain medical accuracy and use appropriate medical terminology. Only return the translation, no explanations or additional text.
