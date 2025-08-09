@@ -2,6 +2,8 @@
 
 A real-time, multilingual healthcare translation web application that enables seamless communication between patients and healthcare providers using AI-powered translation and speech recognition.
 
+![Healthcare Translation App](screenshots/main-page-screenshot.png)
+
 ## 🌟 Features
 
 ### Core Functionality
