@@ -1,11 +1,6 @@
 {
   "version": 2,
   "public": true,
-  "functions": {
-    "api/translate.js": {
-      "runtime": "nodejs18.x"
-    }
-  },
   "headers": [
     {
       "source": "/(.*)",
